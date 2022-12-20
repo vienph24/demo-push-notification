@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368707604077",
+    "project_id": "demopushnotification-66a13",
+    "storage_bucket": "demopushnotification-66a13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368707604077:android:224243528b246c3bbc7964",
+        "android_client_info": {
+          "package_name": "com.halome.demopushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368707604077-4djn267npdarkqm65utfj6gm99h78kbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpGvbhnk28yWCgYbZ3ZabY0ELbw47IHkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368707604077-4djn267npdarkqm65utfj6gm99h78kbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
